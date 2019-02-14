@@ -1,0 +1,12 @@
+Genes	"chemotaxis, angiogenesis, adhesion, migration"	"interferon-gamma, antigen processing, immune response"	trnascription by RNA pol II	"PLC, phosphorylation, platelet activation"	Apoptosis	Metabolism
+BATF			"IL10, PLAC8"			
+C3AR1	"ANXA3, CCR1, CD177, EMR1, FCER1G, FES, FFAR3, IL10, S100A12"			GPR84		
+C9orf95						"C9orf103, SEPHS2"
+CEACAM1	"ADAMTS3, CCR1, CD177, CD63, EMR1, FCER1G, IL10, OSTalpha, PSTPIP2, SIGLEC9"					
+GNA15	"CCR1, EMR1, FFAR3"			"FCER1G, P2RX1"		
+ZDHHC19						
+HLA-DPB1						
+KIAA1370						
+MTCH1					ARHGEF18	
+RPGRIP1						
+TGFBI						
