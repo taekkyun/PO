@@ -1,4 +1,4 @@
-Genes	"chemotaxis, angiogenesis, adhesion, migration"	"interferon-gamma, antigen processing, immune response"	trnascription by RNA pol II	"PLC, phosphorylation, platelet activation"	Apoptosis	Metabolism
+Genes	"Chemotaxis, Angiogenesis, Migration"	"ntigen processing, Immune response"	Transcription by RNA pol II	"Platelet activation"	Apoptosis	Metabolism
 BATF			"IL10, PLAC8"			
 C3AR1	"ANXA3, CCR1, CD177, EMR1, FCER1G, FES, FFAR3, IL10, S100A12"			GPR84		
 C9orf95						"C9orf103, SEPHS2"

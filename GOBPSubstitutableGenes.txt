@@ -1,4 +1,4 @@
-"chemotaxis, angiogenesis, adhesion, migration"	"interferon-gamma, antigen processing, immune response"	trnascription by RNA pol II	"PLC, phosphorylation, platelet activation"	Apoptosis	Metabolism
+"Chemotaxis, Angiogenesis, Migration"	"Antigen processing, Immune response"	Transcription by RNA pol II	"Platelet activation"	Apoptosis	Metabolism
 ADAMTS3	BPI	IL10	GPR84	LCN2	C9orf103
 CCR1	CCR1	PLAC8	FCER1G	OSTalpha	SEPHS2
 CD177	FCER1G	GLO1	P2RX1	P2RX1	C9orf95
